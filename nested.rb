@@ -65,6 +65,7 @@ def adding_matz
       :known_for => "Ruby",
       :languages => ["LISP", "C"]
     }
+  }
 end
 # add the following information to the top level of programmer_hash
 # :yukihiro_matsumoto => {
@@ -127,5 +128,4 @@ def adding_to_dennis
           :languages => ["C"]
         }
      }
-
 end
